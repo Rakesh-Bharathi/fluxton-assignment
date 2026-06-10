@@ -38,6 +38,16 @@ The ESP32 was selected because it provides sufficient processing capability for 
 * Sensor failure handling
 * Fixed-rate sampling and transmission scheduling
 
+
+## Timing Configuration
+
+| Parameter | Value |
+|------------|--------|
+| Sampling Interval | 100 ms |
+| CAN Transmission Interval | 100 ms |
+| Display Refresh Interval | 3000 ms |
+
+
 ---
 
 ## Data Representation
@@ -158,9 +168,9 @@ The firmware generates CAN-formatted telemetry frames, packs the required payloa
 
 AI tools were used during development for:
 
-* Code review
-* Architecture review
-* Documentation assistance
-* Design validation
+* Code review - Deepseek & Claude
+* Architecture review - Deepseek & Claude
+* Documentation assistance - ChatGPT
+* Design validation - Deepseek, Claude, ChatGPT
 
 All generated content was reviewed, modified, tested, and validated manually before submission.

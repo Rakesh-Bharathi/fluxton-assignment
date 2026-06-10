@@ -99,9 +99,9 @@ Examples:
 
 ## Build and Run
 
-1. Install Arduino IDE 2.x
+1. Install Arduino IDE 
 2. Install the ESP32 Board Package
-3. Open `EV_Charger_Edge_Node.ino`
+3. Open `Fluxton_assignment.ino`
 4. Select **ESP32 Dev Module**
 5. Compile and upload the firmware
 6. Open Serial Monitor

@@ -120,7 +120,7 @@ Fault conditions are immediately reported through UART output.
 
 ### System Startup
 
-![Startup](Screenshots/startup.png)
+![Startup](Screenshots/Startup.png)
 
 ### Normal Operation
 
